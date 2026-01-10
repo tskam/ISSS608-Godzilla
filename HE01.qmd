@@ -1,0 +1,23 @@
+---
+title: "Hands-on Exercise 1"
+author: "Dr. Kam Tin Seong"
+date: "January 8, 2026"
+date-modified: "last-modified"
+execute: 
+  eval: true
+  echo: true
+  warning: false
+  freeze: true
+---
+
+# Overview
+
+## Getting Started
+
+```{r}
+pacman::p_load(tidyverse)
+```
+
+# The Data
+
+# First Visualistion
