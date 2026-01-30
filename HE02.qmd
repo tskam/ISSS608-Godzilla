@@ -2,3 +2,5 @@
 title: "Hands-on Exercise 2"
 author: "Dr. Kam"
 ---
+
+I have updated this page. Further update here.
